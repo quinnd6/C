@@ -1,0 +1,9 @@
+c:\users\david\documents\visual studio 2015\Projects\SqlInsert\SqlInsert\bin\Debug\SqlInsert.exe.config
+c:\users\david\documents\visual studio 2015\Projects\SqlInsert\SqlInsert\bin\Debug\SqlInsert.exe
+c:\users\david\documents\visual studio 2015\Projects\SqlInsert\SqlInsert\bin\Debug\SqlInsert.pdb
+c:\users\david\documents\visual studio 2015\Projects\SqlInsert\SqlInsert\obj\Debug\SqlInsert.Form1.resources
+c:\users\david\documents\visual studio 2015\Projects\SqlInsert\SqlInsert\obj\Debug\SqlInsert.Properties.Resources.resources
+c:\users\david\documents\visual studio 2015\Projects\SqlInsert\SqlInsert\obj\Debug\SqlInsert.csproj.GenerateResource.Cache
+c:\users\david\documents\visual studio 2015\Projects\SqlInsert\SqlInsert\obj\Debug\SqlInsert.exe
+c:\users\david\documents\visual studio 2015\Projects\SqlInsert\SqlInsert\obj\Debug\SqlInsert.pdb
+c:\users\david\documents\visual studio 2015\Projects\SqlInsert\SqlInsert\obj\Debug\SqlInsert.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+c:\users\david\documents\visual studio 2015\Projects\TestForm\TestForm\bin\Release\TestForm.exe.config
+c:\users\david\documents\visual studio 2015\Projects\TestForm\TestForm\bin\Release\TestForm.exe
+c:\users\david\documents\visual studio 2015\Projects\TestForm\TestForm\bin\Release\TestForm.pdb
+c:\users\david\documents\visual studio 2015\Projects\TestForm\TestForm\obj\Release\TestForm.Form1.resources
+c:\users\david\documents\visual studio 2015\Projects\TestForm\TestForm\obj\Release\TestForm.Properties.Resources.resources
+c:\users\david\documents\visual studio 2015\Projects\TestForm\TestForm\obj\Release\TestForm.csproj.GenerateResource.Cache
+c:\users\david\documents\visual studio 2015\Projects\TestForm\TestForm\obj\Release\TestForm.exe
+c:\users\david\documents\visual studio 2015\Projects\TestForm\TestForm\obj\Release\TestForm.pdb
